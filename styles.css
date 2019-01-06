@@ -1,0 +1,46 @@
+.header{
+  height: 225px;
+  background-color: #ffffaa;
+}
+
+.header-logo {
+  text-align: center;
+}
+.contents{
+  height: 450px;
+  background-color: #FFFFDD;
+}
+
+.copy-container{
+  height: 80px;
+  text-align: center;
+  background-color: skyblue;
+  color: #ffff00;
+  padding-top: 3px;
+  padding-bottom:3px;
+}
+
+.contents-item{
+  float: left;
+  padding: 20px;
+  text-align: center;
+  padding-left: 70px;
+}
+
+p{
+  text-align: center;
+}
+
+
+
+.footer{
+  background-color: skyblue;
+  height: 50px;
+  color: #ffff00;
+}
+
+.footer-logo{
+  text-align: center;
+  padding: 10px;
+  padding-top: 12px;
+}
